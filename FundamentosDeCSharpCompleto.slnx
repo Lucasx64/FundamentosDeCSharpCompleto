@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/ListasDeExercicios/">
+    <Project Path="ListasDeExercicios/Exercicios.csproj" />
+  </Folder>
+  <Project Path="AtividadeDojo/AtividadeDojo.csproj" />
+  <Project Path="FundamentosDeC#/FundamentosDeC#.csproj" />
+  <Project Path="OperadorComparação/OperadorComparação.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+C:\Users\84289112587\Desktop\OperadorComparação\bin\Debug\net10.0\OperadorComparação.exe
+C:\Users\84289112587\Desktop\OperadorComparação\bin\Debug\net10.0\OperadorComparação.deps.json
+C:\Users\84289112587\Desktop\OperadorComparação\bin\Debug\net10.0\OperadorComparação.runtimeconfig.json
+C:\Users\84289112587\Desktop\OperadorComparação\bin\Debug\net10.0\OperadorComparação.dll
+C:\Users\84289112587\Desktop\OperadorComparação\bin\Debug\net10.0\OperadorComparação.pdb
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\OperadorComparação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\OperadorComparação.AssemblyInfoInputs.cache
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\OperadorComparação.AssemblyInfo.cs
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\OperadorComparação.csproj.CoreCompileInputs.cache
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\OperadorComparação.dll
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\refint\OperadorComparação.dll
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\OperadorComparação.pdb
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\OperadorComparação.genruntimeconfig.cache
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\ref\OperadorComparação.dll
+C:\Users\84289112587\Desktop\OperadorComparação\obj\Debug\net10.0\Operador.29FB7274.Up2Date
